@@ -1,0 +1,60 @@
+db.positions.findOne();
+db.positions.count();
+show collections
+db.positions.find()
+db.positions.drop()
+db.positions.count();
+db.positions.find();
+positions.find();
+show collections
+use admin
+show databases
+exit
+db.kpis.find({expensesByCategory: {$exists: true}}).pretty()
+db.products.drop()
+db.transactions.drop()
+db.kpis.drop()
+db.kpis.find({dailyData: {$exists: true}}).pretty()
+db.kpis.find({expensesByCategory: {$exists: true}}).pretty()
+db.kpis.find().pretty()
+db.kpis.find({}, {expensesByCategory: 1})
+db.kpis.find().project({expensesByCategory: 1})
+db.kpis.findOne().project({expensesByCategory: 1})
+db.kpis.findOne()
+db.kpis.find()
+db.transactions.countDocuments()
+db.getCollectionNames()
+use admin
+db.getCollectionNames()
+db.transactions.countDocuments()
+db.kpis.countDocuments()
+db.kpis.count()
+db.kpis.find()
+exit
+db.getCollectionNames()
+db.kpis.drop()
+db.transactions.drop()
+db.getCollectionNames()
+db.products.drop()
+d.products.drop()
+db.getCollectionNames()
+db.getCollectionsNames()
+use admin
+db.getCollectionNames()
+use admin
+db.getCollectionNames()
+db.getCollectionNames();
+db.getCollectionNames;
+use admin
+show databases
+exit
+show databases
+exit 
+exit
+show collections
+db
+show collections
+use test
+show collections
+how collections
+db
